@@ -1,0 +1,50 @@
+[
+    {
+        "displayName": "מספר שדרה",
+        "realName": "id"
+    },
+    {
+        "displayName": "מספר רכב בראש",
+        "realName": "leaderId"
+    },
+    {
+        "displayName": "מספר רכב בזנב",
+        "realName": "rearId"
+    },
+    {
+        "displayName": "סוג משימה",
+        "realName": "missionType"
+    },
+    {
+        "displayName": "זמן תחילת תנועה",
+        "realName": "startDate"
+    },
+    {
+        "displayName": "זמן מתוכנן לסיום",
+        "realName": "finishDate"
+    },
+    {
+        "displayName": "תיאור מטען",
+        "realName": "cargoName"
+    },
+    {
+        "displayName": "מקום מוצא",
+        "realName": "startPlace"
+    },
+    {
+        "displayName": "קורדינטת מוצא",
+        "realName": "startCoord"
+    },
+    {
+        "displayName": "מקום יעד",
+        "realName": "endCoord"
+    },
+    {
+        "displayName": "מפקד שדרה",
+        "realName": "commander"
+    },
+    {
+        "displayName": "מספר ליצירת קשר",
+        "realName": "commanderPhone"
+    }
+]

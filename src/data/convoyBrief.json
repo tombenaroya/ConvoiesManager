@@ -1,0 +1,26 @@
+[
+    {
+        "displayName": "מספר שדרה",
+        "realName": "id"
+    },
+    {
+        "displayName": "סוג משימה",
+        "realName": "missionType"
+    },
+    {
+        "displayName": "זמן תחילת תנועה",
+        "realName": "startDate"
+    },
+    {
+        "displayName": "זמן מתוכנן לסיום",
+        "realName": "finishDate"
+    },
+    {
+        "displayName": "תיאור מטען",
+        "realName": "cargoName"
+    },
+    {
+        "displayName": "מפקד שדרה",
+        "realName": "commander"
+    }
+]
